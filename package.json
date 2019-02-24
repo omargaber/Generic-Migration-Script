@@ -1,0 +1,26 @@
+{
+  "name": "generic-promise-based-migration-script",
+  "version": "1.0.0",
+  "description": "Usage of axios requests in a promise based script to migrate data from source to destination server whilst including the procedure of attaining authorization tokens.",
+  "main": "MigrationScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omargaber/Generic-Promise-Based-Migration-Script.git"
+  },
+  "keywords": [
+    "migration",
+    "axios"
+  ],
+  "author": "Omar Gaber El-Sayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omargaber/Generic-Promise-Based-Migration-Script/issues"
+  },
+  "homepage": "https://github.com/omargaber/Generic-Promise-Based-Migration-Script#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
