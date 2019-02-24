@@ -9,7 +9,7 @@ source server to a destination server through the dedicated API endpoints.
 
 In your terminal, you need to enter the following command to install all dependencies:
 
-> `npm install`
+`npm install`
 
 ## Instructions for Configuration and Running
 
@@ -20,4 +20,5 @@ In your terminal, you need to enter the following command to install all depende
   - API **destination** endpoint for data to be posted.
 
 - After going through all the comments and replacing the placeholder with the right API paths, credentials etc., you need to run the following command to be able to start running the script.
-  > `node MigrationScript.js`
+
+`node MigrationScript.js`
