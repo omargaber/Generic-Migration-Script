@@ -1,4 +1,4 @@
-# Generic Promis Based Migration Script using Axios Requests
+# Generic Promise Based Migration Script using Axios Requests
 
 Using basic axios GET and POST requests, you can use this script to migrate data from a
 source server to a destination server through the dedicated API endpoints.
